@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tarta de Frutillas",
+        "descripcion": "Tarta dulce con crema pastelera y frutillas frescas, en una base de masa quebrada.",
+        "imagen": "https://example.com/images/tarta-frutillas.jpg",
+        "ingredientes": ["Masa quebrada", "Crema pastelera", "Frutillas frescas", "Azúcar"]
+    },
+    {
+        "id": 2,
+        "nombre": "Torta de Chocolate",
+        "descripcion": "Torta de chocolate húmeda con ganache de chocolate y decorada con chips de chocolate.",
+        "imagen": "https://example.com/images/torta-chocolate.jpg",
+        "ingredientes": ["Harina", "Cacao", "Azúcar", "Huevos", "Manteca", "Ganache de chocolate"]
+    },
+    {
+        "id": 3,
+        "nombre": "Cheesecake de Frutos Rojos",
+        "descripcion": "Cheesecake cremoso con una base de galletitas y cobertura de frutos rojos.",
+        "imagen": "https://example.com/images/cheesecake-frutos-rojos.jpg",
+        "ingredientes": ["Galletitas", "Queso crema", "Azúcar", "Frutos rojos", "Gelatina sin sabor"]
+    },
+    {
+        "id": 4,
+        "nombre": "Pastafrola de Membrillo",
+        "descripcion": "Clásica pastafrola argentina con dulce de membrillo en una masa suave.",
+        "imagen": "https://example.com/images/pastafrola-membrillo.jpg",
+        "ingredientes": ["Masa quebrada", "Dulce de membrillo", "Huevos", "Azúcar"]
+    },
+    {
+        "id": 5,
+        "nombre": "Torta Rogel",
+        "descripcion": "Capas de masa hojaldrada con dulce de leche y cubierta de merengue italiano.",
+        "imagen": "https://example.com/images/torta-rogel.jpg",
+        "ingredientes": ["Masa de hojaldre", "Dulce de leche", "Merengue italiano"]
+    },
+    {
+        "id": 6,
+        "nombre": "Tarta de Manzana",
+        "descripcion": "Tarta dulce de manzanas con canela, en una masa crujiente y dorada.",
+        "imagen": "https://example.com/images/tarta-manzana.jpg",
+        "ingredientes": ["Manzanas", "Azúcar", "Canela", "Masa quebrada", "Manteca"]
+    },
+    {
+        "id": 7,
+        "nombre": "Lemon Pie",
+        "descripcion": "Base de masa quebrada con relleno de crema de limón y merengue suave.",
+        "imagen": "https://example.com/images/lemon-pie.jpg",
+        "ingredientes": ["Masa quebrada", "Crema de limón", "Merengue italiano", "Azúcar"]
+    },
+    {
+        "id": 8,
+        "nombre": "Brownie con Nueces",
+        "descripcion": "Brownie de chocolate amargo con nueces, ideal para los amantes del chocolate.",
+        "imagen": "https://example.com/images/brownie-nueces.jpg",
+        "ingredientes": ["Chocolate amargo", "Azúcar", "Manteca", "Huevos", "Nueces"]
+    },
+    {
+        "id": 9,
+        "nombre": "Chocotorta",
+        "descripcion": "Postre clásico argentino con capas de galletitas de chocolate y mezcla de queso crema y dulce de leche.",
+        "imagen": "https://example.com/images/chocotorta.jpg",
+        "ingredientes": ["Galletitas de chocolate", "Queso crema", "Dulce de leche"]
+    },
+    {
+        "id": 10,
+        "nombre": "Tiramisú",
+        "descripcion": "Postre italiano con capas de bizcochos mojados en café y crema de mascarpone.",
+        "imagen": "https://example.com/images/tiramisu.jpg",
+        "ingredientes": ["Bizcochos de soletilla", "Café", "Mascarpone", "Cacao en polvo", "Azúcar"]
+    },
+    {
+        "id": 11,
+        "nombre": "Medialunas de Manteca",
+        "descripcion": "Medialunas dulces y tiernas de manteca, perfectas para acompañar el mate.",
+        "imagen": "https://example.com/images/medialunas-manteca.jpg",
+        "ingredientes": ["Harina", "Manteca", "Levadura", "Azúcar", "Huevos"]
+    },
+    {
+        "id": 12,
+        "nombre": "Tarta de Coco y Dulce de Leche",
+        "descripcion": "Tarta con base de dulce de leche y cubierta de coco rallado y huevo.",
+        "imagen": "https://example.com/images/tarta-coco.jpg",
+        "ingredientes": ["Dulce de leche", "Coco rallado", "Huevos", "Azúcar"]
+    },
+    {
+        "id": 13,
+        "nombre": "Marquise de Chocolate",
+        "descripcion": "Torta de chocolate y crema, suave y de textura delicada.",
+        "imagen": "https://example.com/images/marquise.jpg",
+        "ingredientes": ["Chocolate amargo", "Crema de leche", "Azúcar", "Huevos"]
+    },
+    {
+        "id": 14,
+        "nombre": "Tarta de Durazno",
+        "descripcion": "Tarta dulce con crema pastelera y duraznos en almíbar.",
+        "imagen": "https://example.com/images/tarta-durazno.jpg",
+        "ingredientes": ["Masa quebrada", "Crema pastelera", "Duraznos en almíbar", "Azúcar"]
+    },
+    {
+        "id": 15,
+        "nombre": "Budín de Naranja",
+        "descripcion": "Budín suave de naranja con glaseado de azúcar y ralladura de naranja.",
+        "imagen": "https://example.com/images/budin-naranja.jpg",
+        "ingredientes": ["Harina", "Azúcar", "Jugo de naranja", "Manteca", "Huevos"]
+    },
+    {
+        "id": 16,
+        "nombre": "Alfajores de Maicena",
+        "descripcion": "Alfajores de maicena rellenos de dulce de leche y decorados con coco rallado.",
+        "imagen": "https://example.com/images/alfajores-maicena.jpg",
+        "ingredientes": ["Maicena", "Harina", "Dulce de leche", "Coco rallado", "Azúcar"]
+    },
+    {
+        "id": 17,
+        "nombre": "Crumble de Manzana",
+        "descripcion": "Postre con manzanas horneadas cubiertas de una capa de crumble crujiente.",
+        "imagen": "https://example.com/images/crumble-manzana.jpg",
+        "ingredientes": ["Manzanas", "Harina", "Azúcar", "Manteca", "Canela"]
+    },
+    {
+        "id": 18,
+        "nombre": "Flan Casero",
+        "descripcion": "Flan de leche casero con caramelo, suave y cremoso.",
+        "imagen": "https://example.com/images/flan-casero.jpg",
+        "ingredientes": ["Leche", "Huevos", "Azúcar", "Vainilla"]
+    },
+    {
+        "id": 19,
+        "nombre": "Bizcochuelo de Vainilla",
+        "descripcion": "Bizcochuelo esponjoso de vainilla, perfecto para tortas o como base de postres.",
+        "imagen": "https://example.com/images/bizcochuelo-vainilla.jpg",
+        "ingredientes": ["Harina", "Azúcar", "Huevos", "Vainilla", "Polvo de hornear"]
+    },
+    {
+        "id": 20,
+        "nombre": "Palmeritas",
+        "descripcion": "Dulces de hojaldre en forma de palmeras, caramelizadas y crujientes.",
+        "imagen": "https://example.com/images/palmeritas.jpg",
+        "ingredientes": ["Masa de hojaldre", "Azúcar"]
+    },
+    {
+        "id": 21,
+        "nombre": "Macarons de Frambuesa",
+        "descripcion": "Delicados macarons rellenos de crema de frambuesa, coloridos y suaves.",
+        "imagen": "https://example.com/images/macarons-frambuesa.jpg",
+        "ingredientes": ["Almendra molida", "Claras de huevo", "Azúcar", "Crema de frambuesa"]
+    },
+    {
+        "id": 22,
+        "nombre": "Cookies de Chocolate",
+        "descripcion": "Galletitas crocantes con chips de chocolate y un toque de vainilla.",
+        "imagen": "https://example.com/images/cookies-chocolate.jpg",
+        "ingredientes": ["Harina", "Manteca", "Azúcar", "Chips de chocolate", "Huevos"]
+    },
+    {
+        "id": 23,
+        "nombre": "Tarta de Ricota",
+        "descripcion": "Tarta cremosa de ricota con un toque de limón, ideal para el postre.",
+        "imagen": "https://example.com/images/tarta-ricota.jpg",
+        "ingredientes": ["Ricota", "Azúcar", "Huevos", "Limón", "Masa quebrada"]
+    }
+]
